@@ -40,7 +40,7 @@ AI-Powered Recommendation System
 pandas, scikit-learn, numpy, Flask or Django
 
 
-No timelines specifically...
+No timelines specifically... BUT DO NOTE THAT THIS IS A WORK IN PROGRESS I HAVE A LOT OF PROJECTS TO ADD.
 
 🔧 Tools I swear I use,
 Python 3.11+
