@@ -20,7 +20,7 @@ The Backend,
 
 The core program or code is over.
 
-if you want to add some additions go for adding underscores, taking prompts from the user for a pattern of their choice, adding undo support, CLI arguements and timestamps. i didnt add these features yet -for now.
+if you want to add some additions go for adding underscores, taking prompts from the user for a pattern of their choice, adding undo support, CLI arguements and timestamps. i will add these features later in advanced_file_renamer folder - wait a bit!
 
 1 library were needed here - the os module.
 
