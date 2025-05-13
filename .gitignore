@@ -31,3 +31,4 @@ desktop.ini
 
 # Local environment variables
 .env
+venv/
