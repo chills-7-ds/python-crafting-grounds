@@ -34,7 +34,7 @@ Find the missing piece. Before the story resets.
 1. Clone or download the repo.  
 2. Open your terminal or command prompt.  
 3. Run the game with:  
-```bash
+bash -
 python forgotten_cipher.py
 
 #Possible Extensions
