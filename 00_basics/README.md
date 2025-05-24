@@ -1,24 +1,24 @@
 # 🔹 00_basics/ — *Pure Python, Pure Skill*
 
-Welcome to the **00_basics/** module — a hands-on collection of 7 mini-projects crafted to help you master **core Python fundamentals** using just raw logic and syntax.
+Welcome to the **00_basics/** module — a hands-on collection of 7 mini-projects crafted to master **core Python fundamentals** using just raw logic and syntax.
 
 No imports. No shortcuts. Just your brain + Python built-ins.
 
 ---
 
-## 🧠 What You'll Learn
+## 🧠 What i Learnt
 
 Each project is designed to strengthen these essentials:
 
-| Concept               | Covered In Projects |
-|-----------------------|---------------------|
-| ✅ `variables.py`          | All 7 projects (storing and updating data) |
-| ✅ `conditionals.py`       | Text RPG, Quiz App, Hangman, Number Wizard |
-| ✅ `loops.py`              | All 7 projects (iteration and control flow) |
-| ✅ `functions.py`          | All projects (modular design) |
-| ✅ `files_io.py`           | Quiz App (leaderboard), optional in others |
-| ✅ `error_handling.py`     | Budget Buddy, To-Do Tracker, Number Wizard |
-| ✅ `modules_and_packages.py` | Use project structure to simulate modules |
+| Concept               | 
+|-----------------------|
+| ✅ `variables.py`          
+| ✅ `conditionals.py`       
+| ✅ `loops.py`              
+| ✅ `functions.py`         
+| ✅ `files_io.py`        
+| ✅ `error_handling.py`    
+| ✅ `modules_and_packages.py` 
 
 ---
 
