@@ -6,7 +6,7 @@ A beginner-friendly mock bank simulator built in Python that handles account cre
 
 # Goal
 
-To demonstrate the core concepts of **error handling**, **loops**, and **functions** in Python through a practical scenario. Focus is on catching user mistakes without crashing the app and structuring a clean, menu-based CLI application.
+To demonstrate the core concepts of **error handling**, **loops**, and **functions** in Python through a practical scenario. Focus is on catching user mistakes (like invalid numbers, empty names, and duplicate accounts) without crashing the app and structuring a clean, menu-based CLI application.
 
 # Tech Stack
 
@@ -16,17 +16,18 @@ To demonstrate the core concepts of **error handling**, **loops**, and **functio
 
 # Features
 
-* Create new bank accounts
-* Deposit money into existing accounts
-* Withdraw with balance check
-* Check account balance
-* Menu-driven CLI with structured exception handling for every input/action
-* Centralized account storage using a dictionary
+* Create new bank accounts.
+* Deposit money into existing accounts.
+* Withdraw with balance check.
+* Check account balance.
+* Menu-driven CLI with structured exception handling for every input/action.
+* Centralized account storage using a dictionary.
+* Prevents negative deposits and withdrawals.
 
 # How to Run
 
 ```bash
-# Clone the repo (if you're using GitHub)
+# Clone the repo 
 git clone <your-repo-url>
 cd banksim/
 
