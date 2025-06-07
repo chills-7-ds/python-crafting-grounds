@@ -11,7 +11,7 @@ Keep code clean, modular, and maybe a lil' poetic
 🗂️ Project Structure & Highlights
 
 🔹 00_basics/ — Foundations  
-Text RPG, Terminal To-Do Tracker, Budget Buddy 💸, Hangman, and more
+logic_dungeon, healthtrackr, banksim, toolbelt_cli, and more      
 
 🔸 01_stdlib/ — Standard Library Essentials  
 Daily Journal CLI, File Organizer 🗃️, Regex Scraper, Password Vault, CLI Countdown Timer
