@@ -47,5 +47,7 @@ To demonstrate the usage of all core function types in Python — including defa
 * Add unit tests for individual logging functions
 
 ---
+# Extended Project Docs on Notion
+* For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site: https://dramatic-psychology-0d8.notion.site/Health-tracker-doc-bts-20b03656c6c3809088b6dfc1f1a14f15?source=copy_link
 
 **See you in the next one! **
