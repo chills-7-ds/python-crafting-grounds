@@ -42,5 +42,7 @@ python bank_simulator.py
 * 🔐 **Add PIN/password logic** for account-level authentication
 
 ---
+# Extended Project Docs on Notion
+* For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site: https://dramatic-psychology-0d8.notion.site/bank-simulator-doc-bts-20b03656c6c38021bd4df92060370b65?source=copy_link 
 
 **See you in the next one!** 🧠💸
