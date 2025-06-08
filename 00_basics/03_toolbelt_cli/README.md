@@ -37,6 +37,13 @@ python main.py
 * Save past calculations using a basic file or in-memory history
 
 ---
+
+# Advice
+
+* Since these projects are focused on covering only Python basics (without diving into advanced topics or standard libraries yet), the code might look a bit longer or more manual than necessary.
+
+If you're comfortable using the standard libraries (like random, math, or argparse), I highly recommend revisiting this same project later — your code will be shorter, cleaner, and a lot easier to understand once you're ready to level up.
+
 # Extended Project Docs on Notion
 * For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site: https://dramatic-psychology-0d8.notion.site/toolbelt-cli-doc-bts-20c03656c6c380948d65e67b8a41b1d3?source=copy_link
 
