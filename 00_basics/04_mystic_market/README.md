@@ -48,6 +48,11 @@ To demonstrate clean modular programming using core Python concepts—variables,
 
 ---
 
+# 🧙‍♂️ Advice from the Mystic Merchant
+* “Name it right, or no brew for you!”
+* This market is case-sensitive — so type potion names exactly as shown (e.g., "Healing Potion" not healing potion).
+* Mess up the casing, and you’ll be told your request doesn’t exist. It’s not personal. Just magical protocol. 🧪📜
+
 # Extended Project Docs on Notion
 * For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site:https://dramatic-psychology-0d8.notion.site/mystic_market-doc-bts-20d03656c6c3802e91cee27a46f72b07?source=copy_link
 
