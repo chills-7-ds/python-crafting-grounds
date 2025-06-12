@@ -16,8 +16,7 @@ No imports. No shortcuts. Just your brain + Python built-ins.
 | `toolbelt_cli/`  | Modular CLI tools using Python’s standard library |
 | `mystic_market/` | RPG-style shop simulator using all core concepts  |
 | `quizcrack/`     | Trivia game with levels, categories, and scoring  |
-| `tasktrack_pro/` | CLI task tracker to manage daily productivity     |
-
+| `hangman_hero/`  | Classic hangman game built with just conditionals |
 ---
 
 ## 🧰 How to Use This Folder
