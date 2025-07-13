@@ -84,6 +84,7 @@ This project makes the idea of *“time is relative”* concrete — especially 
 ---
 
 # Extended Project Docs on Notion
-* For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site:{enter the notion link}
+* For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site:{https://dramatic-psychology-0d8.notion.site/Datetime-project-22f03656c6c380ce9878db59b0628cb6?pvs=73}
+
 
 **See you in the next one! **
