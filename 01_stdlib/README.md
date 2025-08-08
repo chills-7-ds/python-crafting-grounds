@@ -8,16 +8,7 @@ No third-party libraries. Just native Python, elegantly pushed to its limits.
 
 ## 📦 Projects Included
 
-| Folder             | Description                                                |
-| ------------------ | ---------------------------------------------------------- |
-| `journal_cli/`     | Daily journal manager with auto timestamps and folders     |
-| `file_organizer/`  | Smart desktop cleaner using OS and file tools              |
-| `regex_scraper/`   | Extract emails, numbers, or hashtags with one line input   |
-| `fitplan_gen/`     | Randomized workout routines with dynamic variables         |
-| `vaultkeeper/`     | Local encrypted password manager with command-line access  |
-| `wordsmith_cli/`   | Command-line dictionary with add/edit/search functionality |
-| `countdown_timer/` | Elegant CLI timer with optional sound and formatting       |
-
+Will be updated soon
 ---
 
 ## 🧰 How to Use This Folder
