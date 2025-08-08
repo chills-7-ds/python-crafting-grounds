@@ -46,6 +46,5 @@ No third-party libraries. Just native Python, elegantly pushed to its limits.
 
 This folder is about building **practical command-line tools** using **only what Python gives you by default**.
 
-No noise. Just signal. 🧠⚡
-
+A WORK IN PROGRESS!!!
 ---
