@@ -37,8 +37,9 @@ python textwiz.py "your text here" --uppercase --count
 * Support additional transformations (lowercase, title-case, etc.)
 * Chain multiple transformations in user-specified order
 
----
+## Extended Project Docs on Notion
+
+For behind-the-scenes thought processes((hints, expected output, aha moments)), future improvements, project roadmap, and helpful resources and references, check out the dedicated Notion site:[[link-to-notion-doc](https://dramatic-psychology-0d8.notion.site/argparse-sys-project-28d03656c6c38083979bf26e429009e2?source=copy_link)]
 
 See you in the next one!
-
 ---
